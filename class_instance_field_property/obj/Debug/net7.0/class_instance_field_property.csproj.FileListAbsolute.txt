@@ -1,0 +1,14 @@
+D:\Net\class_instance_field_property\bin\Debug\net7.0\class_instance_field_property.exe
+D:\Net\class_instance_field_property\bin\Debug\net7.0\class_instance_field_property.deps.json
+D:\Net\class_instance_field_property\bin\Debug\net7.0\class_instance_field_property.runtimeconfig.json
+D:\Net\class_instance_field_property\bin\Debug\net7.0\class_instance_field_property.dll
+D:\Net\class_instance_field_property\bin\Debug\net7.0\class_instance_field_property.pdb
+D:\Net\class_instance_field_property\obj\Debug\net7.0\class_instance_field_property.GeneratedMSBuildEditorConfig.editorconfig
+D:\Net\class_instance_field_property\obj\Debug\net7.0\class_instance_field_property.AssemblyInfoInputs.cache
+D:\Net\class_instance_field_property\obj\Debug\net7.0\class_instance_field_property.AssemblyInfo.cs
+D:\Net\class_instance_field_property\obj\Debug\net7.0\class_instance_field_property.csproj.CoreCompileInputs.cache
+D:\Net\class_instance_field_property\obj\Debug\net7.0\class_instance_field_property.dll
+D:\Net\class_instance_field_property\obj\Debug\net7.0\refint\class_instance_field_property.dll
+D:\Net\class_instance_field_property\obj\Debug\net7.0\class_instance_field_property.pdb
+D:\Net\class_instance_field_property\obj\Debug\net7.0\class_instance_field_property.genruntimeconfig.cache
+D:\Net\class_instance_field_property\obj\Debug\net7.0\ref\class_instance_field_property.dll

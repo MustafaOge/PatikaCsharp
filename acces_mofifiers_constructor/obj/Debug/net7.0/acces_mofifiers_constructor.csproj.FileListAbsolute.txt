@@ -1,0 +1,14 @@
+D:\Net\acces_mofifiers_constructor\bin\Debug\net7.0\acces_mofifiers_constructor.exe
+D:\Net\acces_mofifiers_constructor\bin\Debug\net7.0\acces_mofifiers_constructor.deps.json
+D:\Net\acces_mofifiers_constructor\bin\Debug\net7.0\acces_mofifiers_constructor.runtimeconfig.json
+D:\Net\acces_mofifiers_constructor\bin\Debug\net7.0\acces_mofifiers_constructor.dll
+D:\Net\acces_mofifiers_constructor\bin\Debug\net7.0\acces_mofifiers_constructor.pdb
+D:\Net\acces_mofifiers_constructor\obj\Debug\net7.0\acces_mofifiers_constructor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Net\acces_mofifiers_constructor\obj\Debug\net7.0\acces_mofifiers_constructor.AssemblyInfoInputs.cache
+D:\Net\acces_mofifiers_constructor\obj\Debug\net7.0\acces_mofifiers_constructor.AssemblyInfo.cs
+D:\Net\acces_mofifiers_constructor\obj\Debug\net7.0\acces_mofifiers_constructor.csproj.CoreCompileInputs.cache
+D:\Net\acces_mofifiers_constructor\obj\Debug\net7.0\acces_mofifiers_constructor.dll
+D:\Net\acces_mofifiers_constructor\obj\Debug\net7.0\refint\acces_mofifiers_constructor.dll
+D:\Net\acces_mofifiers_constructor\obj\Debug\net7.0\acces_mofifiers_constructor.pdb
+D:\Net\acces_mofifiers_constructor\obj\Debug\net7.0\acces_mofifiers_constructor.genruntimeconfig.cache
+D:\Net\acces_mofifiers_constructor\obj\Debug\net7.0\ref\acces_mofifiers_constructor.dll
