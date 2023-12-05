@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5JHUbwRbtdctQGCMoYxhPgVAlbfYd2yMRdtmVZ3ynPk=",
+  "Source": "SpaceWeatherAPI",
+  "BasePath": "_content/SpaceWeatherAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
